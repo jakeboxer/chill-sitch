@@ -13,7 +13,8 @@ BANDS = [
             "Dispatch",
             "early Phil Collins",
             "Ben Folds",
-            "Sam Cooke"
+            "Sam Cooke",
+            "Carol King"
         ]
 
 PLACES = [
